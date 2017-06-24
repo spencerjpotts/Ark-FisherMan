@@ -14,18 +14,36 @@ Ark Fisher is a project created by the ME team.
 > - Support
 > - Help
 > - Bugs
-> - Feature Requests
-> - Pull Requests
 > - Features
 > - Credits
 
+# Installation
+(1). Install ahk from LIKE www.ahk.com
+(2). Download Ark-fisherman.ahk
+(3). Compile Script using CMD, GUI || Right Click file.ahk > Compile Script 
 
-# Feature Requests
+# Usage
+START SCRIPT: F5
+STOP SCRIPT: F6
+-----
+(1). Run Compiled ahk file
+(2). Enter Game
+(3). Sit Down
+(4). Cast Rod, Press F5
+(5). Wait and enjoy your 2.5's LOOTS
 
-If you have a great idea to improve the script, please search our feature tracker first to ensure someone else hasn't already come up with the same great idea. If it hasn't been requested, please create a new request and ensure you follow the template guide so that it doesnt get lost with the bug reports. While you're there vote on other feature requests to let the devs know what is most important to you.
+# Support
+
+# Help
+
+# Bugs
+
+# TODO
+
+> - Auto Re-Cast Line.
 
 # Features
-
+> Auto Clicks Required Characters.
 # Analytics
 
 
