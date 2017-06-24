@@ -8,7 +8,7 @@ Ark Fisher is a project created by the ME team.
 # Bitcoin: 
 
 # Table of Contents
-,,,
+
 > - Installation
 > - Documentation
 > - Support
@@ -18,7 +18,7 @@ Ark Fisher is a project created by the ME team.
 > - Pull Requests
 > - Features
 > - Credits
-,,,
+
 
 # Feature Requests
 
@@ -30,7 +30,6 @@ If you have a great idea to improve the script, please search our feature tracke
 
 
 # Credits
-
 
 Ark Fisherman is intended for academic purposes and should not be used to play the game "Ark: Survival Evolved" as it violates the TOS and is unfair to the community. Use the script at your own risk.
 
