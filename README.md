@@ -9,10 +9,10 @@ Ark Fisher is a project created by the ME team.
 
 # Table of Contents
 ...
-> Installation
-> Documentation
-> Support
-> Help
+> - Installation
+> - Documentation
+> - Support
+> - Help
 > Bugs
 > Feature Requests
 > Pull Requests
