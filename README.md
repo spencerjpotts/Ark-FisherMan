@@ -18,19 +18,20 @@ Ark Fisher is a project created by the ME team.
 > - Credits
 
 # Installation
-(1). Install ahk from LIKE www.ahk.com
-(2). Download Ark-fisherman.ahk
-(3). Compile Script using CMD, GUI || Right Click file.ahk > Compile Script 
+- (1). Install ahk from LIKE www.ahk.com
+- (2). Download Ark-fisherman.ahk
+- (3). Compile Script using CMD, GUI || Right Click file.ahk > Compile Script 
 
 # Usage
+
 START SCRIPT: F5
 STOP SCRIPT: F6
------
-(1). Run Compiled ahk file
-(2). Enter Game
-(3). Sit Down
-(4). Cast Rod, Press F5
-(5). Wait and enjoy your 2.5's LOOTS
+--
+- (1). Run Compiled ahk file
+- (2). Enter Game
+- (3). Sit Down
+- (4). Cast Rod, Press F5
+- (5). Wait and enjoy your 2.5's LOOTS
 
 # Support
 
