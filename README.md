@@ -8,7 +8,7 @@ Ark Fisher is a project created by the ME team.
 # Bitcoin: 
 
 # Table of Contents
-
+...
 > Installation
 > Documentation
 > Support
@@ -18,6 +18,7 @@ Ark Fisher is a project created by the ME team.
 > Pull Requests
 > Features
 > Credits
+...
 
 # Feature Requests
 
