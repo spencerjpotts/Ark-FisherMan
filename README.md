@@ -19,7 +19,9 @@ Ark Fisher is a project created by the ME team.
 
 # Features
 > - [x] Auto Clicks Required Characters.
-> - [] Auto Re-Cast Rod
+> - [ ] Auto Re-Cast Rod
+> - [ ] Auto Repair
+> - [ ] Auto Apply Bait
 
 # Installation
 > - (1). Install ahk from LIKE www.ahk.com
