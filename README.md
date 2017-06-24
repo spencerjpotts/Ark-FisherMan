@@ -9,15 +9,15 @@ Ark Fisher is a project created by the ME team.
 
 # Table of Contents
 
-Installation
-Documentation
-Support
-Help
-Bugs
-Feature Requests
-Pull Requests
-Features
-Credits
+> Installation
+> Documentation
+> Support
+> Help
+> Bugs
+> Feature Requests
+> Pull Requests
+> Features
+> Credits
 
 # Feature Requests
 
