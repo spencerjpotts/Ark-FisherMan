@@ -44,7 +44,7 @@ Ark Fisherman is a project created by the ME team.
 # Usage
 
 - START SCRIPT: F5
-- STOP SCRIPT: F6
+- STOP SCRIPT: Taskbar > AHK Service > Exit
 
 > - (1). Run Compiled ahk file.
 > - (2). Enter Game.
