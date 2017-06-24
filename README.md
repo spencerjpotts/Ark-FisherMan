@@ -8,14 +8,13 @@ Ark Fisher is a project created by the ME team.
 # Bitcoin: 
 
 # Table of Contents
-
+> - Features
 > - Installation
-> - Documentation
+> - Usage
 > - Support
 > - Help
 > - Bugs
-> - Features
-> - Credits
+> - TODO
 
 # Features
 > - [x] Auto Clicks Required Characters.
@@ -24,7 +23,7 @@ Ark Fisher is a project created by the ME team.
 > - [ ] Auto Apply Bait
 
 # Installation
-> - (1). Install ahk from LIKE www.ahk.com
+> - (1). Install ahk from [(https://autohotkey.com/)]
 > - (2). Download Ark-fisherman.ahk
 > - (3). Compile Script using CMD, GUI || Right Click file.ahk > Compile Script 
 
@@ -45,15 +44,5 @@ Ark Fisher is a project created by the ME team.
 
 # Bugs
 
-# TODO
-
-> - Auto Re-Cast Line.
-
 # Credits
 
-
-
----
-Ark Fisherman is intended for academic purposes and should not be used to play the game "Ark: Survival Evolved" as it violates the TOS and is unfair to the community. Use the script at your own risk.
-
-I DO not support the use of 3rd party apps or apps that violate the TOS.
