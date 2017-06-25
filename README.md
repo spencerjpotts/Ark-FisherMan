@@ -7,10 +7,11 @@
   / ____ \| |  |   <  | |     _| |_ ____) | |  | | |____| | \ \| |  | |/ ____ \| |\  |
  /_/    \_\_|  |_|\_\ |_|    |_____|_____/|_|  |_|______|_|  \_\_|  |_/_/    \_\_| \_|
                                                                                       
-</pre>
-                                                                                      
+</pre>                                                                                
 [![0.9x, 1.3x, 2.3x, 2.4x, 2.5x](https://img.youtube.com/vi/iqwziy8T3Us/0.jpg)](https://www.youtube.com/watch?v=iqwziy8T3Us&feature=youtu.be)                                                                                      
                                                                                      
+# Donate
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](spencerjpotts@gmail.com) 
 
 # Ark-Fisherman
 Automate fishing in the game "Ark : Survival Evolved"
@@ -33,8 +34,7 @@ Ark Fisherman is a project created by the ME team.
 # Features
 > - [x] Auto Clicks Required Characters.
 > - [ ] Auto Re-Cast Rod.
-> - [ ] Auto Repair.
-> - [ ] Auto Apply Bait.
+
 
 # Installation
 > - (1). Install ahk from [(https://autohotkey.com/)]
@@ -49,7 +49,7 @@ GRAPHICS QUALITY: MEDIUM
 # Usage
 
 - START SCRIPT: F5
-- STOP SCRIPT: Taskbar > AHK Service > Exit
+- STOP SCRIPT: F6
 
 > - (1). Run Compiled ahk file.
 > - (2). Enter Game.
