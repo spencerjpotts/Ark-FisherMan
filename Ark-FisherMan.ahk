@@ -9,7 +9,7 @@ F5::
 	Speed 		 = 150
 	CharacterSet = qweasdzxc
 
-	while %i% = 0 {
+while ( %i% = 0 ) {
 
 		;;A
 		PixelSearch Px, Py, 1162, 970, 1162, 970, 0xFFFFFF, 3, Fast
@@ -66,67 +66,43 @@ F5::
 		}
 
 
-		;;TRY FIND E
+		;;BEGIN PROCESS OF ELIMINATION TO FIND E, S, C
 		;;E
 		PixelSearch Px, Py, 1186, 998, 1186, 998, 0xFFFFFF, 3, Fast 
 
-
 		PixelSearch PxA, PyA, 1162, 970, 1162, 970, 0xFFFFFF, 3, Fast	;;a
 		PixelSearch PxZ, PyZ, 1158, 973, 1158, 973, 0xFFFFFF, 3, Fast	;;z
-		PixelSearch PxQ, PyQ, 1181, 1016, 1181, 1016, 0xFFFFFF, 3, Fast ;;q
 		PixelSearch PxW, PyW, 1113, 868, 1113, 868, 0xFFFFFF, 3, Fast	;;w
 		PixelSearch PxX, PyX, 1167, 972, 1167, 972, 0xFFFFFF, 3, Fast	;;x
 		PixelSearch PxD, PyD, 1192, 906, 1192, 906, 0xFFFFFF, 3, Fast	;;d
 
-		PixelSearch PxS, PyS, 1161, 917, 1161, 917, 0xFFFFFF, 3, Fast	;;s
-		PixelSearch PxC, PyC, 1135, 918, 1135, 918, 0xFFFFFF, 3, Fast	;;c
-
-
-		if ( Px && Py ) && (!PxA && !PyA) && (!PxZ && !PyZ) && (!PxQ && !PyQ) && (!PxW && !PyW) && (!PxX && !PyX) && (!PxD && !PyD) && (!PxS && !PyS) && (!PxC && !PyC) {
+		if ( Px && Py ) && (!PxA && !PyA) && (!PxZ && !PyZ) && (!PxW && !PyW) && (!PxX && !PyX) && (!PxD && !PyD) {
 
 			Send, e
 			Sleep, Speed
 		}
 
-		;;TRY FIND S
 		;;S
 		PixelSearch Px, Py, 1161, 917, 1161, 917, 0xFFFFFF, 3, Fast 
 
-
-		PixelSearch PxA, PyA, 1162, 970, 1162, 970, 0xFFFFFF, 3, Fast	;;a
 		PixelSearch PxZ, PyZ, 1158, 973, 1158, 973, 0xFFFFFF, 3, Fast	;;z
-		PixelSearch PxQ, PyQ, 1181, 1016, 1181, 1016, 0xFFFFFF, 3, Fast ;;q
 		PixelSearch PxW, PyW, 1113, 868, 1113, 868, 0xFFFFFF, 3, Fast	;;w
 		PixelSearch PxX, PyX, 1167, 972, 1167, 972, 0xFFFFFF, 3, Fast	;;x
-		PixelSearch PxD, PyD, 1192, 906, 1192, 906, 0xFFFFFF, 3, Fast	;;d
-
-		PixelSearch PxE, PyE, 1186, 998, 1186, 998, 0xFFFFFF, 3, Fast	;;e
-		PixelSearch PxC, PyC, 1135, 918, 1135, 918, 0xFFFFFF, 3, Fast	;;c
 
 
-		if ( Px && Py ) && (!PxA && !PyA) && (!PxZ && !PyZ) && (!PxQ && !PyQ) && (!PxW && !PyW) && (!PxX && !PyX) && (!PxD && !PyD) && (!PxE && !PyE) && (!PxC && !PyC) {
+		if ( Px && Py ) && (!PxZ && !PyZ) && (!PxW && !PyW) && (!PxX && !PyX) {
 
 			Send, s
 			Sleep, Speed
 		}
 
-		;;TRY FIND C
 		;;C
-		PixelSearch Px, Py, 1135, 918, 1135, 918, 0xFFFFFF, 3, Fast 
+		PixelSearch Px, Py, 1135, 918, 1135, 918, 0xFFFFFF, 3, Fast
 
-
-		PixelSearch PxA, PyA, 1162, 970, 1162, 970, 0xFFFFFF, 3, Fast	;;a
-		PixelSearch PxZ, PyZ, 1158, 973, 1158, 973, 0xFFFFFF, 3, Fast	;;z
 		PixelSearch PxQ, PyQ, 1181, 1016, 1181, 1016, 0xFFFFFF, 3, Fast ;;q
-		PixelSearch PxW, PyW, 1113, 868, 1113, 868, 0xFFFFFF, 3, Fast	;;w
-		PixelSearch PxX, PyX, 1167, 972, 1167, 972, 0xFFFFFF, 3, Fast	;;x
 		PixelSearch PxD, PyD, 1192, 906, 1192, 906, 0xFFFFFF, 3, Fast	;;d
 
-		PixelSearch PxE, PyE, 1186, 998, 1186, 998, 0xFFFFFF, 3, Fast	;;e
-		PixelSearch PxS, PyS, 1161, 917, 1161, 917, 0xFFFFFF, 3, Fast	;;s
-
-
-		if ( Px && Py ) && (!PxA && !PyA) && (!PxZ && !PyZ) && (!PxQ && !PyQ) && (!PxW && !PyW) && (!PxX && !PyX) && (!PxD && !PyD) && (!PxE && !PyE) && (!PxS && !PyS) {
+		if ( Px && Py )  && (!PxQ && !PyQ) && (!PxD && !PyD) {
 
 			Send, c
 			Sleep, Speed
