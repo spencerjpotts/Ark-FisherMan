@@ -30,9 +30,9 @@ Ark Fisherman is a project created by the ME team.
 > - [ ] Auto Re-Cast Rod. (Not Sure If I'll Add This)
 
 # Installation
->  (1). Install ahk from [(https://autohotkey.com/)]
->  (2). Download Ark-fisherman.ahk From [(https://github.com/spencerjpotts/Ark-FisherMan.git)]
->  (3). Compile Script using GUI |OR| Right Click file.ahk > Compile Script 
+>  - (1). Install ahk from [(https://autohotkey.com/)]
+>  - (2). Download Ark-fisherman.ahk From [(https://github.com/spencerjpotts/Ark-FisherMan.git)]
+>  - (3). Compile Script using GUI |OR| Right Click file.ahk > Compile Script 
 
 # Setup
  - RESOLUTION: 1920x1080
