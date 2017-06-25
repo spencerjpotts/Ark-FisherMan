@@ -1,17 +1,15 @@
 ;;F6 = Break Script
 F6::
-	vari := 1
+	i := 1
 	return
 
 ;;F5 = Run Script "F5"
 F5::
+	i := 0
+	Speed 		 = 150
+	CharacterSet = qweasdzxc
 
-CharacterSet = qweasdzxc
-;;CharacterSet = qweasdzxc
-
-char_index := 1
-
-	Loop {
+	while %i% = 0 {
 
 		;;A
 		PixelSearch Px, Py, 1162, 970, 1162, 970, 0xFFFFFF, 3, Fast
@@ -19,7 +17,7 @@ char_index := 1
 		{	
     		;;WinActivate, ARK: Survival Evolved
 			Send, a
-			Sleep, 150
+			Sleep, Speed
 		}
 
 		;;z
@@ -28,7 +26,7 @@ char_index := 1
 		{	
     		;;WinActivate, ARK: Survival Evolved
 			Send, z
-			Sleep, 150
+			Sleep, Speed
 		}
 
 		;;q
@@ -37,7 +35,7 @@ char_index := 1
 		{	
     		;;WinActivate, ARK: Survival Evolved
 			Send, q
-			Sleep, 150
+			Sleep, Speed
 		}
 
 		;;w
@@ -46,7 +44,7 @@ char_index := 1
 		{	
     		;;WinActivate, ARK: Survival Evolved
 			Send, w
-			Sleep, 150
+			Sleep, Speed
 		}
 
 		;;x
@@ -55,7 +53,7 @@ char_index := 1
 		{	
     		;;WinActivate, ARK: Survival Evolved
 			Send, x
-			Sleep, 150
+			Sleep, Speed
 		}
 
 		;;d
@@ -64,7 +62,7 @@ char_index := 1
 		{	
     		;;WinActivate, ARK: Survival Evolved
 			Send, d
-			Sleep, 150
+			Sleep, Speed
 		}
 
 
@@ -87,7 +85,7 @@ char_index := 1
 		if ( Px && Py ) && (!PxA && !PyA) && (!PxZ && !PyZ) && (!PxQ && !PyQ) && (!PxW && !PyW) && (!PxX && !PyX) && (!PxD && !PyD) && (!PxS && !PyS) && (!PxC && !PyC) {
 
 			Send, e
-			Sleep, 150
+			Sleep, Speed
 		}
 
 		;;TRY FIND S
@@ -109,7 +107,7 @@ char_index := 1
 		if ( Px && Py ) && (!PxA && !PyA) && (!PxZ && !PyZ) && (!PxQ && !PyQ) && (!PxW && !PyW) && (!PxX && !PyX) && (!PxD && !PyD) && (!PxE && !PyE) && (!PxC && !PyC) {
 
 			Send, s
-			Sleep, 150
+			Sleep, Speed
 		}
 
 		;;TRY FIND C
@@ -131,7 +129,7 @@ char_index := 1
 		if ( Px && Py ) && (!PxA && !PyA) && (!PxZ && !PyZ) && (!PxQ && !PyQ) && (!PxW && !PyW) && (!PxX && !PyX) && (!PxD && !PyD) && (!PxE && !PyE) && (!PxS && !PyS) {
 
 			Send, c
-			Sleep, 150
+			Sleep, Speed
 		}
 
 	}
