@@ -15,12 +15,10 @@ Automate fishing in the game "Ark : Survival Evolved"
 
 Ark Fisherman is a project created by the ME team.
 
-
-# Bitcoin: 
-
 # Table of Contents
 > - Features
 > - Installation
+> - Setup
 > - Usage
 > - Support
 > - Help
