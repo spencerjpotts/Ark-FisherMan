@@ -31,7 +31,7 @@ Ark Fisherman is a project created by the ME team.
 
 # Installation
 > - (1). Install ahk from [(https://autohotkey.com/)]
-> - (2). Download Ark-fisherman.ahk
+> - (2). Download Ark-fisherman.ahk From [()]
 > - (3). Compile Script using GUI |OR| Right Click file.ahk > Compile Script 
 
 # Setup
@@ -55,9 +55,9 @@ Ark Fisherman is a project created by the ME team.
 # Support
 
 # Help
-If you want Other Resolutions PLEASE Message Me With All 9 Character Screen Shots, Please Don't Send Me dual Monitor Screen Shots (Only Ark) :)
+If you want Other Resolutions PLEASE Message Me With All 9 Character Screen Shots, "Please Don't Send Me dual Monitor Screen Shots" (Only Ark) :)
 
 # Bugs
-More People That Test It More Bugs Can be Found And Finxed.
+More People That Test It More Bugs Can be Found And Fixed.
 
 # Credits
