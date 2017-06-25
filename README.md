@@ -56,7 +56,8 @@ Ark Fisherman is a project created by the ME team.
 
 # Line Snap Reasons
  - Client And Server May Not Register, Good ms/ping equals happy catching!! LAG
-
+ - Check resolution and game graphics for the required SPECS!!
+ If you have any other conspiracies for the line snap write an issue and then get a tissue. :P
 # Support
 
 # Help
