@@ -46,7 +46,7 @@ while ( %i% = 0 ) {
 			Send, w
 			Sleep, speed
 		}
-
+		
 		;;x
 		PixelSearch Px, Py, 1167, 972, 1167, 972, color, 3, Fast
 		if (ErrorLevel = 0)
