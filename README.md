@@ -23,7 +23,7 @@ Ark Fisherman is a project created by the ME team.
 > - Support
 > - Help
 > - Bugs
-> - TODO
+> - Credits
 
 # Features
 > - [x] Auto Clicks Required Characters.
@@ -58,12 +58,13 @@ Ark Fisherman is a project created by the ME team.
  - Client And Server May Not Register, Good ms/ping equals happy catching!! LAG
  - Check resolution and game graphics for the required SPECS!!
  If you have any other conspiracies for the line snap write an issue and then get a tissue. :P
+ 
 # Support
 
 # Help
 If you want Other Resolutions PLEASE Message Me With All 9 Character Screen Shots, "Please Don't Send Me dual Monitor Screen Shots" (Only Ark) :)
 
 # Bugs
-The more people that test it, more bugs can be found. MAKE SURE TO SUBMIT AN ISSUE IF PROBLEMS!
+The more people that test it, more bugs can be found and fixes. MAKE SURE TO SUBMIT AN ISSUE IF PROBLEMS!
 
 # Credits
