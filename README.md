@@ -29,7 +29,6 @@ Ark Fisherman is a project created by the ME team.
 > - [x] Auto Clicks Required Characters.
 > - [ ] Auto Re-Cast Rod.
 
-
 # Installation
 > - (1). Install ahk from [(https://autohotkey.com/)]
 > - (2). Download Ark-fisherman.ahk
@@ -41,7 +40,6 @@ Ark Fisherman is a project created by the ME team.
 > - GRAPHICS QUALITY: MEDIUM
 
 # Usage
-
 - START SCRIPT: F5
 - STOP SCRIPT: F6
 
@@ -49,12 +47,17 @@ Ark Fisherman is a project created by the ME team.
 > - (2). Enter Game.
 > - (3). Sit Down on bench || Chair.
 > - (4). Cast Rod, Press F5
-> - (5). And Then It's All Gravy Baby So Wait and enjoy your 2.5's LOOTS
+> - (5). And Then It's All Gravy Baby,So Wait and enjoy your 2.5's LOOTS
+
+# Line Snap Reasons
+> - Client And Server May Not Register, Good ms/ping equals happy catching!!
 
 # Support
 
 # Help
+If you want Other Resolutions PLEASE Message Me With All 9 Character Screen Shots, Please Don't Send Me dual Monitor Screen Shots (Only Ark) :)
 
 # Bugs
+More People That Test It More Bugs Can be Found And Finxed.
 
 # Credits
