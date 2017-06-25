@@ -49,8 +49,13 @@ Ark Fisherman is a project created by the ME team.
  - (4). Cast Rod, Press F5
  - (5). And Then It's All Gravy Baby,So Wait and enjoy your 2.5's LOOTS
 
+# FISHING BAIT USAGE
+- Sap Coelacanth	0.94
+- Leech Blood	Coelacanth, Sabertooth Salmon, Piranha	1.88
+- Giant Bee Honey Coelacanth, Sabertooth Salmon, Piranha	2.2
+
 # Line Snap Reasons
- - Client And Server May Not Register, Good ms/ping equals happy catching!!
+ - Client And Server May Not Register, Good ms/ping equals happy catching!! LAG
 
 # Support
 
@@ -58,6 +63,6 @@ Ark Fisherman is a project created by the ME team.
 If you want Other Resolutions PLEASE Message Me With All 9 Character Screen Shots, "Please Don't Send Me dual Monitor Screen Shots" (Only Ark) :)
 
 # Bugs
-The more people that test it, more bugs can be found.
+The more people that test it, more bugs can be found. MAKE SURE TO SUBMIT AN ISSUE IF PROBLEMS!
 
 # Credits
