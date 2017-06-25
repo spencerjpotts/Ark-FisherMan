@@ -11,7 +11,7 @@
 [![0.9x, 1.3x, 2.3x, 2.4x, 2.5x](https://img.youtube.com/vi/iqwziy8T3Us/0.jpg)](https://www.youtube.com/watch?v=iqwziy8T3Us&feature=youtu.be)                                                                                      
                                                                                      
 # Donate
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](spencerjpotts@gmail.com) 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](spencerjpotts@gmail.com)
 
 # Ark-Fisherman
 Automate fishing in the game "Ark : Survival Evolved"
