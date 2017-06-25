@@ -58,6 +58,6 @@ Ark Fisherman is a project created by the ME team.
 If you want Other Resolutions PLEASE Message Me With All 9 Character Screen Shots, "Please Don't Send Me dual Monitor Screen Shots" (Only Ark) :)
 
 # Bugs
-More People That Test It More Bugs Can be Found And Fixed.
+The more people that test it, more bugs can be found.
 
 # Credits
