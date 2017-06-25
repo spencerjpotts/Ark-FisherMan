@@ -41,6 +41,11 @@ Ark Fisherman is a project created by the ME team.
 > - (2). Download Ark-fisherman.ahk
 > - (3). Compile Script using GUI |OR| Right Click file.ahk > Compile Script 
 
+# Setup
+RESOLUTION: 1920x1080
+WINDOW MODE: WindowedFullscreen
+GRAPHICS QUALITY: MEDIUM
+
 # Usage
 
 - START SCRIPT: F5
