@@ -11,7 +11,7 @@
 [![0.9x, 1.3x, 2.3x, 2.4x, 2.5x](https://img.youtube.com/vi/iqwziy8T3Us/0.jpg)](https://www.youtube.com/watch?v=iqwziy8T3Us&feature=youtu.be)                                                                                      
                                                                                      
 # Ark-Fisherman
-Automate fishing in the game "Ark : Survival Evolved"
+Automate Fishing In The Game "Ark : Survival Evolved"
 
 Ark Fisherman is a project created by the ME team.
 
@@ -27,11 +27,11 @@ Ark Fisherman is a project created by the ME team.
 
 # Features
 > - [x] Auto Clicks Required Characters.
-> - [ ] Auto Re-Cast Rod.
+> - [ ] Auto Re-Cast Rod. (Not Sure If I'll Add This)
 
 # Installation
 > - (1). Install ahk from [(https://autohotkey.com/)]
-> - (2). Download Ark-fisherman.ahk From [()]
+> - (2). Download Ark-fisherman.ahk From [(https://github.com/spencerjpotts/Ark-FisherMan.git)]
 > - (3). Compile Script using GUI |OR| Right Click file.ahk > Compile Script 
 
 # Setup
