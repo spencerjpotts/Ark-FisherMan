@@ -1,70 +1,85 @@
-
- <pre>
-                _      ______ _____  _____ _    _ ______ _____  __  __          _   _ 
-     /\        | |    |  ____|_   _|/ ____| |  | |  ____|  __ \|  \/  |   /\   | \ | |
-    /  \   _ __| | __ | |__    | | | (___ | |__| | |__  | |__) | \  / |  /  \  |  \| |
-   / /\ \ | '__| |/ / |  __|   | |  \___ \|  __  |  __| |  _  /| |\/| | / /\ \ | . ` |
-  / ____ \| |  |   <  | |     _| |_ ____) | |  | | |____| | \ \| |  | |/ ____ \| |\  |
- /_/    \_\_|  |_|\_\ |_|    |_____|_____/|_|  |_|______|_|  \_\_|  |_/_/    \_\_| \_|
-                                                                                      
-</pre>                                                                                
-[![0.9x, 1.3x, 2.3x, 2.4x, 2.5x](https://img.youtube.com/vi/iqwziy8T3Us/0.jpg)](https://www.youtube.com/watch?v=iqwziy8T3Us&feature=youtu.be)                                                                                      
-                                                                                     
 # Ark-Fisherman
-Automate Fishing In The Game "Ark : Survival Evolved"
 
-Ark Fisherman is a project created by the ME team.
+[![0.9x, 1.3x, 2.3x, 2.4x, 2.5x](https://img.youtube.com/vi/iqwziy8T3Us/0.jpg)](https://www.youtube.com/watch?v=iqwziy8T3Us&feature=youtu.be)
 
-# Table of Contents
-> - Features
-> - Installation
-> - Setup
-> - Usage
-> - Support
-> - Help
-> - Bugs
-> - Credits
+# Features!
+  > - Auto Clicks Required Characters.
 
-# Features
-> - [x] Auto Clicks Required Characters.
-> - [ ] Auto Re-Cast Rod. (Not Sure If I'll Add This)
+## Download and Installation
+- Download and Install ahk from https://autohotkey.com/
+- Download Ark-fisherman.ahk From https://github.com/spencerjpotts/Ark-FisherMan.git
+- Unpack zip file to desired location on your system
+- Locate Ark-FisherMan.ahk in unpacked directory
+- Compile Script using AHK Compile GUI |OR| Right Click file.ahk > Compile Script
+- This creates a compiled exe version of the ahk script
 
-# Installation
->  - (1). Install ahk from [(https://autohotkey.com/)]
->  - (2). Download Ark-fisherman.ahk From [(https://github.com/spencerjpotts/Ark-FisherMan.git)]
->  - (3). Compile Script using GUI |OR| Right Click file.ahk > Compile Script 
+# Game Configuration
+For the script to function correctly please change the following:
+- RESOLUTION: 1920x1080
+- WINDOW MODE: WindowedFullscreen
+- GRAPHICS QUALITY: MEDIUM
+- UI Scaling is at max: 1.000000
 
-# Setup
- - RESOLUTION: 1920x1080
- - WINDOW MODE: WindowedFullscreen
- - GRAPHICS QUALITY: MEDIUM
- If above doesn't work Apply Default Settings
-# Usage
-- START SCRIPT: F5
-- STOP SCRIPT: F6
+if you have a custom setup with crazy stuff going on and don't want to lose it you can follow the below steps to edit the config file.
+```cmd
+cd C:\steam\steamapps\common\ARK\ShooterGame\Saved\Config\WindowsNoEditor
+```
+Check if a file called "GameUserSettings.ini" exists by typing:
+```cmd
+dir
+```
+Once the config file "GameUserSettings.ini" is located in the working directory, open it with: 
+```cmd
+GameUserSettings.ini
+```
+Now we have to find the attributes for:
+```json
+GraphicsQuality
+FullscreenMode
+sg.ResolutionQuality
+UIScaling
+```
+And replace them with:
+```json
+GraphicsQuality=1
+FullscreenMode=1
+sg.ResolutionQuality=72
+UIScaling=1.000000
+```
+Game requires restart for settings to take effect!
+Ensure to take note of the current settings so you don't lose them.
 
- - (1). Run Compiled ahk file.
- - (2). Enter Game.
- - (3). Sit Down on bench || Chair.
- - (4). Cast Rod, Press F5
- - (5). And Then It's All Gravy Baby,So Wait and enjoy your 2.5's LOOTS
+If all of the above fail, I suggest tinker with the config file, I wrote and tested everything in default settings so a fix isn't hard and if that fails submit a issue I'll try find the problem and get that fixed :).
+
+# Uasge
+START SCRIPT: F5
+STOP SCRIPT: F6
+
+- Run Compiled ahk file. What's explained in "installation"
+- Enter Game.
+- Sit Down on bench || Chair.
+- Cast Rod, Press F5
+- And Then It's All Gravy Baby, so wait and enjoy your 2.5's LOOTS
+- Stop fishing script with F5
+
 
 # FISHING BAIT USAGE
-- Sap Coelacanth	0.94
-- Leech Blood	Coelacanth, Sabertooth Salmon, Piranha	1.88
-- Giant Bee Honey Coelacanth, Sabertooth Salmon, Piranha	2.2
+| Bait        | Catchable Fish           | Max Fish Size  |
+| ------------- |:-------------:| -----:|
+| Sap               | Coelacanth                                  | 0.94 |
+| Leech Blood       | Coelacanth, Sabertooth Salmon, Piranha      |   1.88 |
+| Giant Bee Honey   | Coelacanth, Sabertooth Salmon, Piranha      |    2.2 |
+Visit: http://ark.gamepedia.com/Fishing_Rod For more information
 
 # Line Snap Reasons
- - Client And Server May Not Register, Good ms/ping equals happy catching!! LAG
- - Check resolution and game graphics for the required SPECS!!
- If you have any other conspiracies for the line snap write an issue and then get a tissue. :P
- 
-# Support
+- Client And Server May Not Register, Good ms/ping equals happy catching!! LAG
+- Check for required game Configuration and that you have everything ticked if so, and prooblems still exist create an issue and i'll get back to you asap :)
+Support
 
-# Help
-If you want Other Resolutions PLEASE Message Me With All 9 Character Screen Shots, "Please Don't Send Me dual Monitor Screen Shots" (Only Ark) :)
+Help
 
-# Bugs
-The more people that test it, more bugs can be found and fixes. MAKE SURE TO SUBMIT AN ISSUE IF PROBLEMS!
+Bugs
 
-# Credits
+The more people that test it / use it, more bugs can be found and fixed. MAKE SURE TO SUBMIT AN ISSUE IF PROBLEMS PLEASE!
+
+Credits
