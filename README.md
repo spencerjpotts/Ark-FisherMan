@@ -52,8 +52,8 @@ Ensure to take note of the current settings so you don't lose them.
 If all of the above fail, I suggest tinker with the config file, I wrote and tested everything in default settings so a fix isn't hard and if that fails submit a issue I'll try find the problem and get that fixed :).
 
 # Uasge
-START SCRIPT: F5
-STOP SCRIPT: F6
+-START SCRIPT: F5
+-STOP SCRIPT: F6
 
 - Run Compiled ahk file. What's explained in "installation"
 - Enter Game.
@@ -74,12 +74,13 @@ Visit: http://ark.gamepedia.com/Fishing_Rod For more information
 # Line Snap Reasons
 - Client And Server May Not Register, Good ms/ping equals happy catching!! LAG
 - Check for required game Configuration and that you have everything ticked if so, and prooblems still exist create an issue and i'll get back to you asap :)
-Support
 
-Help
+# Support
 
-Bugs
+# Help
+
+# Bugs
 
 The more people that test it / use it, more bugs can be found and fixed. MAKE SURE TO SUBMIT AN ISSUE IF PROBLEMS PLEASE!
 
-Credits
+# Credits
