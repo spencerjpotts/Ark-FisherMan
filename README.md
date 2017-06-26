@@ -38,7 +38,7 @@ Ark Fisherman is a project created by the ME team.
  - RESOLUTION: 1920x1080
  - WINDOW MODE: WindowedFullscreen
  - GRAPHICS QUALITY: MEDIUM
-
+ If above doesn't work Apply Default Settings
 # Usage
 - START SCRIPT: F5
 - STOP SCRIPT: F6
