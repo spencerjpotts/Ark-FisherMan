@@ -32,7 +32,7 @@ cd C:\steam\steamapps\common\ARK\ShooterGame\Saved\Config\WindowsNoEditor
 ```
 Check if a file called "GameUserSettings.ini" exists by typing:
 ```cmd
-dir
+dir /a
 ```
 Once the config file "GameUserSettings.ini" is located in the working directory, open it with: 
 ```cmd
@@ -86,7 +86,6 @@ Visit: http://ark.gamepedia.com/Fishing_Rod For more information
 # Help
 
 # Bugs
-
 The more people that test it / use it, more bugs can be found and fixed. MAKE SURE TO SUBMIT AN ISSUE IF PROBLEMS PLEASE!
 
 # Credits
