@@ -2,6 +2,9 @@
 
 [![0.9x, 1.3x, 2.3x, 2.4x, 2.5x](https://img.youtube.com/vi/iqwziy8T3Us/0.jpg)](https://www.youtube.com/watch?v=iqwziy8T3Us&feature=youtu.be)
 
+# To DO
+- Language Support
+
 # Features!
   > - Auto Clicks Required Characters.
 
@@ -14,6 +17,7 @@
 - This creates a compiled exe version of the ahk script
 
 # Game Configuration
+- Language Config is English
 For the script to function correctly please change the following:
 - RESOLUTION: 1920x1080
 - WINDOW MODE: WindowedFullscreen
