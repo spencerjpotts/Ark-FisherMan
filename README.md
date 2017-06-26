@@ -20,7 +20,13 @@ For the script to function correctly please change the following:
 - GRAPHICS QUALITY: MEDIUM
 - UI Scaling is at max: 1.000000
 
-if you have a custom setup with crazy stuff going on and don't want to lose it you can follow the below steps to edit the config file.
+|OR|
+
+Reset Default Settings
+
+|OR|
+
+If you have a custom setup with crazy stuff going on and don't want to lose it you can follow the below steps to edit the config file.
 ```cmd
 cd C:\steam\steamapps\common\ARK\ShooterGame\Saved\Config\WindowsNoEditor
 ```
@@ -52,8 +58,8 @@ Ensure to take note of the current settings so you don't lose them.
 If all of the above fail, I suggest tinker with the config file, I wrote and tested everything in default settings so a fix isn't hard and if that fails submit a issue I'll try find the problem and get that fixed :).
 
 # Uasge
--START SCRIPT: F5
--STOP SCRIPT: F6
+- START SCRIPT: F5
+- STOP SCRIPT: F6
 
 - Run Compiled ahk file. What's explained in "installation"
 - Enter Game.
