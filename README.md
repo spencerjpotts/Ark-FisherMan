@@ -10,7 +10,7 @@
 
 ## Download and Installation
 - Download and Install ahk from https://autohotkey.com/
-- Download Ark-fisherman.ahk From https://github.com/spencerjpotts/Ark-FisherMan.git
+- Download Ark-fisherman.ahk From https://github.com/spencerjpotts/Ark-FisherMan/releases
 - Unpack zip file to desired location on your system
 - Locate Ark-FisherMan.ahk in unpacked directory
 - Compile Script using AHK Compile GUI |OR| Right Click file.ahk > Compile Script
