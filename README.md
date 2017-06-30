@@ -86,6 +86,7 @@ Visit: http://ark.gamepedia.com/Fishing_Rod For more information
 # Line Snap Reasons
 - Client And Server May Not Register, Good ms/ping equals happy catching!! LAG
 - Check for required game Configuration and that you have everything ticked if so, and prooblems still exist create an issue and i'll get back to you asap :)
+- Language Config (Supported only English) Working on other languages supports now
 
 # Support
 
