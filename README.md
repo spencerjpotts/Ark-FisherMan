@@ -4,6 +4,8 @@
 
 # To DO
 - Language Support
+- Russian
+- Spanish
 
 # Features!
   > - Auto Clicks Required Characters.
