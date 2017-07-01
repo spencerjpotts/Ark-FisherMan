@@ -73,8 +73,7 @@ If all of the above fail, I suggest tinker with the config file, I wrote and tes
 - Run Compiled ahk file. What's explained in "installation"
 - Enter Game.
 - Sit Down on bench || Chair.
-- Cast Rod, Press F5
-- And Then It's All Gravy Baby, so wait and enjoy your 2.5's LOOTS
+- Cast Rod, Press F5 and wait
 - Stop fishing script with F5
 
 
