@@ -2,7 +2,13 @@
 
 [![Wokring](https://img.youtube.com/vi/bXqh7yuM1sk/0.jpg)](https://www.youtube.com/watch?v=bXqh7yuM1sk&feature=youtu.be)
 # WORKING PATCH
+<<<<<<< HEAD
 - [x] 264
+=======
+- [x] 261
+- [x] 260
+- [x] 259
+>>>>>>> 1d643b9b6c7fbba20857bc963f9224a2a8fe65d5
 
 # To DO
 - Language Support (Russian, Spanish)
