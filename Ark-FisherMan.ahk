@@ -1,3 +1,11 @@
+; ----------------------------
+; Author: Spencer j Potts
+; Game: Ark: Survival Evolved
+; Description: 
+; Date:
+; Github: spencerjpotts
+; 
+; ----------------------------
 ;;F6 = Break Script
 F6::
 	i := 1
@@ -5,7 +13,7 @@ F6::
 
 ;;F5 = Run Script "F5"
 F5::
-	i 		:= 0
+	i 			:= 0
 	color 		 = 0xFFFFFF
 	speed 		 = 150
 
