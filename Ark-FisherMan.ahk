@@ -18,7 +18,15 @@ F5::
 	speed 		 = 150
 
 while ( %i% = 0 ) {
-
+	
+	;;Auto Recast Rod
+	PixelSearch, RecastPx, RecastPy, 0, 0, A_ScreenWidth/4, A_ScreenHeight/4, 0x7FFD03, 3, Fast ;
+       	if (ErrorLevel = 0)
+    	{
+        	Sleep, 2100
+        	MouseClick, left
+    	}
+    
 	;;A
 	PixelSearch Px, Py, 1162, 970, 1162, 970, color, 3, Fast
 	if (ErrorLevel = 0)
