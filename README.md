@@ -2,7 +2,7 @@
 
 [![Wokring](https://img.youtube.com/vi/bXqh7yuM1sk/0.jpg)](https://www.youtube.com/watch?v=bXqh7yuM1sk&feature=youtu.be)
 # WORKING PATCH
-- [x] 264.4
+- [x] 265.51
 
 # To DO
 - Language Support (Russian, Spanish)
@@ -37,139 +37,20 @@ Once the config file "GameUserSettings.ini" is located in the working directory,
 ```cmd
 GameUserSettings.ini
 ```
-Now we replace it with:
+Now we locate and replace:
 ```json
-[/Script/ShooterGame.ShooterGameUserSettings]
-MasterAudioVolume=0.313636
-MusicAudioVolume=0.138889
-SFXAudioVolume=0.249059
-VoiceAudioVolume=2.000000
-CameraShakeScale=0.000000
-bFirstPersonRiding=False
-bThirdPersonPlayer=False
-bShowStatusNotificationMessages=True
-TrueSkyQuality=0.000000
-FOVMultiplier=1.115079
-GroundClutterDensity=0.000000
-bFilmGrain=False
-bMotionBlur=False
-bUseDFAO=False
-bUseSSAO=True
-bShowChatBox=True
-bCameraViewBob=False
-bInvertLookY=False
-bFloatingNames=True
-bChatBubbles=True
-bHideServerInfo=False
-bJoinNotifications=True
-bCraftablesShowAllItems=False
-bLocalInventoryShowAllItems=False
-bRemoteInventoryShowAllItems=False
-LookLeftRightSensitivity=1.905970
-LookUpDownSensitivity=1.905970
-GraphicsQuality=4
-ActiveLingeringWorldTiles=7
-ClientNetQuality=3
-LastServerSearchType=3
-LastDLCTypeSearchType=2
-LastServerSearchHideFull=True
-LastServerSearchProtected=False
-HideItemTextOverlay=False
-bDistanceFieldShadowing=False
-LODScalar=0.000000
-bToggleToTalk=False
-HighQualityMaterials=True
-HighQualitySurfaces=False
-bTemperatureF=False
-bDisableTorporEffect=False
-bChatShowSteamName=True
-bChatShowTribeName=True
-EmoteKeyBind1=26
-EmoteKeyBind2=22
-bNoBloodEffects=False
-bLowQualityVFX=False
-bSpectatorManualFloatingNames=False
-bSuppressAdminIcon=False
-bUseSimpleDistanceMovement=False
-bDisableMeleeCameraSwingAnims=True
-bHighQualityAnisotropicFiltering=True
-bUseLowQualityLevelStreaming=True
-bPreventInventoryOpeningSounds=False
-bPreventItemCraftingSounds=False
-bPreventHitMarkers=False
-bPreventCrosshair=False
-bPreventColorizedItemNames=False
-bHighQualityLODs=False
-bExtraLevelStreamingDistance=True
-bEnableColorGrading=False
-DOFSettingInterpTime=0.000000
-bDisableBloom=True
-bDisableLightShafts=False
-LastPVESearchType=1
-bUseVSync=False
-MacroCtrl0=
-MacroCtrl1=
-MacroCtrl2=
-MacroCtrl3=
-MacroCtrl4=
-MacroCtrl5=
-MacroCtrl6=
-MacroCtrl7=
-MacroCtrl8=
-MacroCtrl9=
-ResolutionSizeX=1920
-ResolutionSizeY=1080
-LastUserConfirmedResolutionSizeX=1920
-LastUserConfirmedResolutionSizeY=1080
-WindowPosX=-1
-WindowPosY=-1
-bUseDesktopResolutionForFullscreen=False
-FullscreenMode=1
-LastConfirmedFullscreenMode=1
-Version=5
-VersionMetaTag=1
-bDisableMenuTransitions=True
-bRemoteInventoryShowEngrams=True
-UIScaling=1.000000
-UIQuickbarScaling=0.738095
-bEnableInventoryItemTooltips=True
-bRemoteInventoryShowCraftables=False
-LocalItemSortType=0
-LocalCraftingSortType=1
-RemoteItemSortType=1
-RemoteCraftingSortType=0
-bLocalInventoryItemsShowAllItems=False
-bLocalInventoryCraftingShowAllItems=False
-bRemoteInventoryItemsShowAllItems=False
-bRemoteInventoryCraftingShowAllItems=False
-bNoTooltipDelay=False
-ShowExplorerNoteSubtitles=False
-DisableMenuMusic=False
-DisableDefaultCharacterItems=True
-bHideFloatingPlayerNames=False
-bQuickToggleItemNames=True
-bHideGamepadItemSelectionModifier=False
-MaxAscensionLevel=0
-PlayActionWheelClickSound=True
-bHostSessionHasBeenOpened=True
-
-[ScalabilityGroups]
-sg.ResolutionQuality=100
-sg.ViewDistanceQuality=0
-sg.AntiAliasingQuality=1
-sg.ShadowQuality=0
-sg.PostProcessQuality=0
-sg.TextureQuality=0
-sg.EffectsQuality=3
-sg.TrueSkyQuality=3
-sg.GroundClutterQuality=3
-sg.IBLQuality=1
-sg.HeightFieldShadowQuality=1
-sg.GroundClutterRadius=20000
+FullscreenMode
+UIScaling
 ```
-DO NOT CHANGE YOUR CONFIG AFTER [ScalabilityGroups]
+with:
+```json
+FullscreenMode=1
+UIScaling=1.000000
+```
 Game requires restart for settings to take effect!
 Ensure to take note of the current settings so you don't lose them.
+
+If none of the above work, try reset the game settings to default.
 
 # Usage
 - START SCRIPT: F5
