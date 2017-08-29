@@ -9,7 +9,8 @@
 - Adding more resolution support
 
 # Features!
-  > - Auto Clicks Required Characters.
+  > - Auto Clicks Required Characters
+  > - Recast rod
 
 # Download and Installation
 - Download and Install AutoHotKeys from https://autohotkey.com/
