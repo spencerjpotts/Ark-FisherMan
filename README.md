@@ -84,7 +84,7 @@ The more people that test it / use it, more bugs can be found and fixed. MAKE SU
 No need for donating me cash-money, just gift me a game with a script idea in the description, so I get to test a new game and write a new script :).
 - steam: http://steamcommunity.com/profiles/76561197989354518/
 
-If you would like to donate, and help this projects community and content grow, you can do so the below button:
+If you would like to donate, and help this projects community and content grow, you can do so with the below button :) HAPPY FISHING!
 
  [![Donate](https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NUM5LS6HQ5CCQ&lc=AU&item_name=fishing%2dscript%2dspencerjpotts&currency_code=AUD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest)
 
