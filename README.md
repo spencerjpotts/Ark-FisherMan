@@ -88,5 +88,8 @@ If you would like to donate, and help this projects community and content grow, 
 
  [![Donate](https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NUM5LS6HQ5CCQ&lc=AU&item_name=fishing%2dscript%2dspencerjpotts&currency_code=AUD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest)
 
-
+# TRIBE SHOUT-OUTS!
+- TBD
+- TBD
+- TBD
 # Credits
