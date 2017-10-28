@@ -4,6 +4,9 @@
 # WORKING PATCH
 - [x] Healthy (v272)
 
+# Discord
+ [Join the Discord](https://discord.gg/262RFta)
+ 
 # To DO
 - Language Support (Russian, Spanish)
 - Adding more resolution support
