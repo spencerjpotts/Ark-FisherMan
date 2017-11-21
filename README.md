@@ -4,7 +4,12 @@
 # WORKING PATCH
 - [x] Healthy (v272)
 
+# Compatible Resolutions
+- [x] 1366x768
+- [x] 1920x1080
+
 # Discord
+ Ask Questions, ask for help or make friends with the community and play some games :)
  [Join the Discord](https://discord.gg/262RFta)
  
 # To DO
