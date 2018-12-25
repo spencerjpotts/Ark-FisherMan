@@ -24,7 +24,7 @@
 
 # Download and Installation
 - Download and Install AutoHotKeys from https://autohotkey.com/
-- Download and extract Ark-fisherman From https://github.com/spencerjpotts/Ark-FisherMan/releases
+- Download and extract Ark-fisherman From https://github.com/spencerjpotts/Ark-FisherMan
 - Unpack zip file to desired location on your system
 - Locate Ark-FisherMan.ahk in recently unpacked directory
 - Compile Script using AutoHotKeys Compile GUI |OR| Right Click Ark-FisherMan.ahk > Compile Script
