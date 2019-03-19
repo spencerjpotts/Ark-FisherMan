@@ -15,7 +15,7 @@
  [Join the Discord](https://discord.gg/262RFta)
  
 # To DO
-- Language Support (Russian, Spanish)
+- Language Support (Russian, Spanish, Korean)
 - Adding more resolution support
 
 # Features!
