@@ -10,6 +10,9 @@
 # Compatible Resolutions
 - [x] 1920x1080
 
+# localization Support
+- [x] Russian (BIG THANK YOU TO '[alexusfree](https://github.com/alexusfree))' for the Russian translation and improvements on the script! - [alexusfree](https://github.com/alexusfree/ARK-Fisher-Rus). Remember to thank him||her when using the Russian version :)
+
 # Discord
  Ask Questions, ask for help or make friends inside the community and play some games :)
  [Join the Discord](https://discord.gg/262RFta)
