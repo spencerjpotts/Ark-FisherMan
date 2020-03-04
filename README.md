@@ -1,5 +1,5 @@
 # Ark-Fisherman
-Donate and help me with a coffee addiction so I can stay up late and develop other resolutions and localization support.
+Donate and help me with my coffee addiction so I can stay up late and develop other resolutions and localization support.
 
 [![paypal](https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NUM5LS6HQ5CCQ&currency_code=AUD&source=url)
 
