@@ -1,4 +1,6 @@
 # Ark-Fisherman
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NUM5LS6HQ5CCQ)
+
 
 # Official Website
 [Official WEBSITE CLICK HERE](https://www.ark-fishing-script.org/)
