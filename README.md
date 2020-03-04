@@ -95,10 +95,5 @@ Visit: http://ark.gamepedia.com/Fishing_Rod For more information
 - Language Configuration (Supported only English)
 
 # Bugs
-The more people that test it / use it, more bugs can be found and fixed. MAKE SURE TO SUBMIT AN ISSUE IF PROBLEMS PLEASE WITH DETAILED DESCRIPTIONS OF THE PROBLEM!!!!!
-
-# TRIBE SHOUT-OUTS!
-- TBD
-- TBD
-- TBD
-# Credits
+The more people that test it / use it, more bugs can be found and fixed!. 
+MAKE SURE TO SUBMIT AN ISSUE OR JOIN THE DISCORD! :)
