@@ -9,8 +9,8 @@ Donate and help me with my coffee addiction so I can stay up late and develop ot
 
 [![Wokring](https://img.youtube.com/vi/bXqh7yuM1sk/0.jpg)](https://www.youtube.com/watch?v=bXqh7yuM1sk&feature=youtu.be)
 # WORKING PATCH
-- [x] Ark Survival Evolved - Healthy (v279.261)
-- [x] GArk Survival Evolved (Genesis) - Healthy (vXXX.XXX)
+- [x] Ark Survival Evolved (Classic) - Healthy (v279.261)
+- [x] Ark Survival Evolved (Genesis) - Healthy (vXXX.XXX)
 
 # Compatible Resolutions
 - [x] 1920x1080
