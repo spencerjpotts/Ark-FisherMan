@@ -1,5 +1,7 @@
 # Ark-Fisherman
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NUM5LS6HQ5CCQ)
+Donate and help me with a coffee addiction so I can stay up late and develop other resolutions and localization support.
+
+[![paypal](https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NUM5LS6HQ5CCQ&currency_code=AUD&source=url)
 
 
 # Official Website
