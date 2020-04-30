@@ -18,9 +18,15 @@ Donate and help me with my coffee addiction so I can stay up late and develop ot
 # localization Support
 - [x] Russian (BIG THANK YOU TO '[alexusfree](https://github.com/alexusfree))' for the Russian translation and improvements on the script! - [alexusfree](https://github.com/alexusfree/ARK-Fisher-Rus). Remember to thank him||her when using the Russian version :)
 
-# Discord
- Ask Questions, ask for help or make friends inside the community and play some games :)
- [Join the Discord](https://discord.gg/262RFta)
+# Social Support
+ Help support me online by joining/following me Online.
+
+Support me on Twitch with a follow :).
+[![Twitch](https://brand.twitch.tv/assets/images/twitch-extruded.png)](https://www.twitch.tv/airaid3r)
+ 
+Join the Discord and Ask Questions, request help, and make new friends inside the community discord and enjoy the online gaming experiences :)
+[![JOIN THE DISCORD](https://discordapp.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://discord.gg/262RFta)
+
  
 # To DO
 - Language Support (Russian, Spanish, Korean)
